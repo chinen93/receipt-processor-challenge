@@ -35,6 +35,8 @@ func getReceiptPoints(ginContext *gin.Context) {
 		l.Printf("Invalid receipt: %s - %s", ginContext.Param("id"), err)
 	}
 
+	l.Printf("Requesting #%d Receipt Points", id)
+
 	for _, receipt := range receipts {
 		if receipt.ID == id {
 			ginContext.IndentedJSON(http.StatusOK, receipt.Points)
@@ -42,6 +44,7 @@ func getReceiptPoints(ginContext *gin.Context) {
 		}
 	}
 
+	l.Printf("#%d Receipt not found", id)
 	ginContext.IndentedJSON(http.StatusNotFound, gin.H{"message": "receipt not found"})
 }
 
@@ -145,7 +148,6 @@ func pointsForItems(items []item) int {
 				return points
 			}
 
-			l.Printf("%f - %f - %f", parsedPrice, parsedPrice*0.2, math.Ceil(parsedPrice*0.2))
 			result := int(math.Ceil(parsedPrice * 0.2))
 			l.Printf("- description '%s' gave %d points", item.Description, result)
 			points += result

@@ -1,103 +1,38 @@
-2024/11/25 11:12:05.938046 Server Starts
-2024/11/25 11:12:07.516570 Processing Receipts
-2024/11/25 11:12:07.517323 Calculate Info for Receipt #0
-2024/11/25 11:12:07.517378 - retailer 'Target' gave 6 points
-2024/11/25 11:12:07.517410 - total 1.250000 gave 25 points
-2024/11/25 11:12:07.517537 - #itens has 0 pairs gave 0 points
-2024/11/25 11:12:07.517571 - date '2022-01-02' gave 0 points
-2024/11/25 11:12:07.517579 - time '13:13' gave 0 points
-2024/11/25 11:12:07.517584 &{0 Target 2022-01-02 13:13 1.25 31 [{Pepsi - 12-oz 1.25}]}
-2024/11/25 11:12:07.529547 Processing Receipts
-2024/11/25 11:12:07.529649 Calculate Info for Receipt #1
-2024/11/25 11:12:07.529657 - retailer 'Target' gave 6 points
-2024/11/25 11:12:07.529663 - total 35.350000 gave 0 points
-2024/11/25 11:12:07.529668 - #itens has 2 pairs gave 10 points
-2024/11/25 11:12:07.529673 12.250000 - 2.450000 - 3.000000
-2024/11/25 11:12:07.529678 - description 'Emils Cheese Pizza' gave 3 points
-2024/11/25 11:12:07.529682 12.000000 - 2.400000 - 3.000000
-2024/11/25 11:12:07.529686 - description '   Klarbrunn 12-PK 12 FL OZ  ' gave 3 points
-2024/11/25 11:12:07.529692 1
-2024/11/25 11:12:07.529696 - date '2022-01-01' gave 6 points
-2024/11/25 11:12:07.529700 - time '13:01' gave 0 points
-2024/11/25 11:12:07.529704 &{1 Target 2022-01-01 13:01 35.35 28 [{Mountain Dew 12PK 6.49} {Emils Cheese Pizza 12.25} {Knorr Creamy Chicken 1.26} {Doritos Nacho Cheese 3.35} {   Klarbrunn 12-PK 12 FL OZ   12.00}]}
-2024/11/25 11:12:07.538617 Processing Receipts
-2024/11/25 11:12:07.538655 Calculate Info for Receipt #2
-2024/11/25 11:12:07.538660 - retailer 'Walgreens' gave 9 points
-2024/11/25 11:12:07.538665 - total 2.650000 gave 0 points
-2024/11/25 11:12:07.538670 - #itens has 1 pairs gave 5 points
-2024/11/25 11:12:07.538673 1.400000 - 0.280000 - 1.000000
-2024/11/25 11:12:07.538678 - description 'Dasani' gave 1 points
-2024/11/25 11:12:07.538682 - date '2022-01-02' gave 0 points
-2024/11/25 11:12:07.538686 - time '08:13' gave 0 points
-2024/11/25 11:12:07.538689 &{2 Walgreens 2022-01-02 08:13 2.65 15 [{Pepsi - 12-oz 1.25} {Dasani 1.40}]}
-2024/11/25 11:12:07.548088 Getting Receipts Points
-2024/11/25 11:12:07.556008 Getting Receipts Points
-2024/11/25 11:12:07.563380 Getting Receipts Points
-2024/11/25 11:12:27.864793 Processing Receipts
-2024/11/25 11:12:27.865181 Calculate Info for Receipt #3
-2024/11/25 11:12:27.865198 - retailer 'Target' gave 6 points
-2024/11/25 11:12:27.865207 - total 1.250000 gave 25 points
-2024/11/25 11:12:27.865216 - #itens has 0 pairs gave 0 points
-2024/11/25 11:12:27.865237 - date '2022-01-02' gave 0 points
-2024/11/25 11:12:27.865245 - time '13:13' gave 0 points
-2024/11/25 11:12:27.865250 &{3 Target 2022-01-02 13:13 1.25 31 [{Pepsi - 12-oz 1.25}]}
-2024/11/25 11:12:27.875430 Processing Receipts
-2024/11/25 11:12:27.875471 Calculate Info for Receipt #4
-2024/11/25 11:12:27.875479 - retailer 'Target' gave 6 points
-2024/11/25 11:12:27.875485 - total 35.350000 gave 0 points
-2024/11/25 11:12:27.875491 - #itens has 2 pairs gave 10 points
-2024/11/25 11:12:27.875496 12.250000 - 2.450000 - 3.000000
-2024/11/25 11:12:27.875501 - description 'Emils Cheese Pizza' gave 3 points
-2024/11/25 11:12:27.875506 12.000000 - 2.400000 - 3.000000
-2024/11/25 11:12:27.875511 - description '   Klarbrunn 12-PK 12 FL OZ  ' gave 3 points
-2024/11/25 11:12:27.875517 1
-2024/11/25 11:12:27.875521 - date '2022-01-01' gave 6 points
-2024/11/25 11:12:27.875526 - time '13:01' gave 0 points
-2024/11/25 11:12:27.875531 &{4 Target 2022-01-01 13:01 35.35 28 [{Mountain Dew 12PK 6.49} {Emils Cheese Pizza 12.25} {Knorr Creamy Chicken 1.26} {Doritos Nacho Cheese 3.35} {   Klarbrunn 12-PK 12 FL OZ   12.00}]}
-2024/11/25 11:12:27.883607 Processing Receipts
-2024/11/25 11:12:27.883636 Calculate Info for Receipt #5
-2024/11/25 11:12:27.883642 - retailer 'Walgreens' gave 9 points
-2024/11/25 11:12:27.883647 - total 2.650000 gave 0 points
-2024/11/25 11:12:27.883652 - #itens has 1 pairs gave 5 points
-2024/11/25 11:12:27.883656 1.400000 - 0.280000 - 1.000000
-2024/11/25 11:12:27.883661 - description 'Dasani' gave 1 points
-2024/11/25 11:12:27.883666 - date '2022-01-02' gave 0 points
-2024/11/25 11:12:27.883678 - time '08:13' gave 0 points
-2024/11/25 11:12:27.883681 &{5 Walgreens 2022-01-02 08:13 2.65 15 [{Pepsi - 12-oz 1.25} {Dasani 1.40}]}
-2024/11/25 11:12:27.891173 Getting Receipts Points
-2024/11/25 11:12:27.898323 Getting Receipts Points
-2024/11/25 11:12:27.906100 Getting Receipts Points
-2024/11/25 11:12:39.279194 Processing Receipts
-2024/11/25 11:12:39.279339 Calculate Info for Receipt #6
-2024/11/25 11:12:39.279355 - retailer 'Target' gave 6 points
-2024/11/25 11:12:39.279363 - total 1.250000 gave 25 points
-2024/11/25 11:12:39.279369 - #itens has 0 pairs gave 0 points
-2024/11/25 11:12:39.279379 - date '2022-01-02' gave 0 points
-2024/11/25 11:12:39.279384 - time '13:13' gave 0 points
-2024/11/25 11:12:39.279389 &{6 Target 2022-01-02 13:13 1.25 31 [{Pepsi - 12-oz 1.25}]}
-2024/11/25 11:12:39.290506 Processing Receipts
-2024/11/25 11:12:39.290551 Calculate Info for Receipt #7
-2024/11/25 11:12:39.290558 - retailer 'Target' gave 6 points
-2024/11/25 11:12:39.290563 - total 35.350000 gave 0 points
-2024/11/25 11:12:39.290568 - #itens has 2 pairs gave 10 points
-2024/11/25 11:12:39.290573 12.250000 - 2.450000 - 3.000000
-2024/11/25 11:12:39.290577 - description 'Emils Cheese Pizza' gave 3 points
-2024/11/25 11:12:39.290582 12.000000 - 2.400000 - 3.000000
-2024/11/25 11:12:39.290586 - description '   Klarbrunn 12-PK 12 FL OZ  ' gave 3 points
-2024/11/25 11:12:39.290591 1
-2024/11/25 11:12:39.290595 - date '2022-01-01' gave 6 points
-2024/11/25 11:12:39.290599 - time '13:01' gave 0 points
-2024/11/25 11:12:39.290602 &{7 Target 2022-01-01 13:01 35.35 28 [{Mountain Dew 12PK 6.49} {Emils Cheese Pizza 12.25} {Knorr Creamy Chicken 1.26} {Doritos Nacho Cheese 3.35} {   Klarbrunn 12-PK 12 FL OZ   12.00}]}
-2024/11/25 11:12:39.298961 Processing Receipts
-2024/11/25 11:12:39.298988 Calculate Info for Receipt #8
-2024/11/25 11:12:39.298994 - retailer 'Walgreens' gave 9 points
-2024/11/25 11:12:39.298998 - total 2.650000 gave 0 points
-2024/11/25 11:12:39.299003 - #itens has 1 pairs gave 5 points
-2024/11/25 11:12:39.299007 1.400000 - 0.280000 - 1.000000
-2024/11/25 11:12:39.299011 - description 'Dasani' gave 1 points
-2024/11/25 11:12:39.299015 - date '2022-01-02' gave 0 points
-2024/11/25 11:12:39.299019 - time '08:13' gave 0 points
-2024/11/25 11:12:39.299023 &{8 Walgreens 2022-01-02 08:13 2.65 15 [{Pepsi - 12-oz 1.25} {Dasani 1.40}]}
-2024/11/25 11:12:39.306567 Getting Receipts Points
-2024/11/25 11:12:39.313740 Getting Receipts Points
-2024/11/25 11:12:39.321264 Getting Receipts Points
+2024/11/25 11:21:36.458044 Server Starts
+2024/11/25 11:21:37.022173 Processing Receipts
+2024/11/25 11:21:37.022603 Calculate Info for Receipt #0
+2024/11/25 11:21:37.022619 - retailer 'Target' gave 6 points
+2024/11/25 11:21:37.022627 - total 1.250000 gave 25 points
+2024/11/25 11:21:37.022652 - #itens has 0 pairs gave 0 points
+2024/11/25 11:21:37.022679 - date '2022-01-02' gave 0 points
+2024/11/25 11:21:37.022685 - time '13:13' gave 0 points
+2024/11/25 11:21:37.022690 &{0 Target 2022-01-02 13:13 1.25 31 [{Pepsi - 12-oz 1.25}]}
+2024/11/25 11:21:37.033060 Processing Receipts
+2024/11/25 11:21:37.033129 Calculate Info for Receipt #1
+2024/11/25 11:21:37.033136 - retailer 'Target' gave 6 points
+2024/11/25 11:21:37.033141 - total 35.350000 gave 0 points
+2024/11/25 11:21:37.033146 - #itens has 2 pairs gave 10 points
+2024/11/25 11:21:37.033150 - description 'Emils Cheese Pizza' gave 3 points
+2024/11/25 11:21:37.033154 - description '   Klarbrunn 12-PK 12 FL OZ  ' gave 3 points
+2024/11/25 11:21:37.033160 1
+2024/11/25 11:21:37.033164 - date '2022-01-01' gave 6 points
+2024/11/25 11:21:37.033168 - time '13:01' gave 0 points
+2024/11/25 11:21:37.033171 &{1 Target 2022-01-01 13:01 35.35 28 [{Mountain Dew 12PK 6.49} {Emils Cheese Pizza 12.25} {Knorr Creamy Chicken 1.26} {Doritos Nacho Cheese 3.35} {   Klarbrunn 12-PK 12 FL OZ   12.00}]}
+2024/11/25 11:21:37.041842 Processing Receipts
+2024/11/25 11:21:37.041880 Calculate Info for Receipt #2
+2024/11/25 11:21:37.041886 - retailer 'Walgreens' gave 9 points
+2024/11/25 11:21:37.041890 - total 2.650000 gave 0 points
+2024/11/25 11:21:37.041895 - #itens has 1 pairs gave 5 points
+2024/11/25 11:21:37.041898 - description 'Dasani' gave 1 points
+2024/11/25 11:21:37.041902 - date '2022-01-02' gave 0 points
+2024/11/25 11:21:37.041906 - time '08:13' gave 0 points
+2024/11/25 11:21:37.041909 &{2 Walgreens 2022-01-02 08:13 2.65 15 [{Pepsi - 12-oz 1.25} {Dasani 1.40}]}
+2024/11/25 11:21:37.049565 Getting Receipts Points
+2024/11/25 11:21:37.049592 Requesting #0 Receipt Points
+2024/11/25 11:21:37.057100 Getting Receipts Points
+2024/11/25 11:21:37.057118 Requesting #1 Receipt Points
+2024/11/25 11:21:37.064526 Getting Receipts Points
+2024/11/25 11:21:37.064553 Requesting #2 Receipt Points
+2024/11/25 11:21:37.071587 Getting Receipts Points
+2024/11/25 11:21:37.071600 Requesting #100 Receipt Points
+2024/11/25 11:21:37.071603 #100 Receipt not found

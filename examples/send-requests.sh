@@ -10,3 +10,5 @@ curl http://localhost:8080/receipts/1/points
 echo
 curl http://localhost:8080/receipts/2/points
 echo
+curl http://localhost:8080/receipts/100/points
+echo

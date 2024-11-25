@@ -1,3 +1,15 @@
+
+# Project Finished
+
+Files created:
+* main.go: program entrypoint and where to start the server.
+* receipt.go: main logic of the program.
+* receipt_test.go: unit tests to check if logic is correct.
+* project.log: log messages for the server.
+* examples/send-requests.sh: example requests to test server.
+
+-------------------
+
 # Receipt Processor
 
 Build a webservice that fulfils the documented API. The API is described below. A formal definition is provided 
